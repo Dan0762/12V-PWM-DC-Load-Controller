@@ -1,1 +1,1 @@
-
+Altium Designer source files
