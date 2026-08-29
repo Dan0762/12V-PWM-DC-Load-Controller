@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\12 V PWM DC Load Controller\Project Outputs for Free Documents\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29-08-26
+Time:       19:30
+Revision:   6e91f1defbc905ee03e5ba037b209a61d0735488
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"U1","NE555DR","TopLayer","D0008A_N","105,0290","74,5490","90"
+"R6","249FGJSPXB25503KA","TopLayer","FP-249FGJSPXB25503KA-MFG","91,3130","86,7410","270"
+"R5","MCR03EZPFX2201","TopLayer","FP-MCR03-IPC_C","108,3310","87,7650","270"
+"R4","MCR03EZPFX2201","TopLayer","FP-MCR03-IPC_C","104,5210","87,8760","270"
+"R3","SG73P2ATTD1003F","TopLayer","RESC2013X60X30NL20T20","106,2990","63,6270","90"
+"R2","RN73R2ATTD47R0C25","TopLayer","FP-RN73R2A-IPC_B","106,8975","67,1830","0"
+"R1","MCT0603PD1001DP500","TopLayer","FP-MCT0603-IPC_C","103,7590","79,7560","0"
+"Q1","IPD053N06N","TopLayer","INF-PG-TO252-3-11_A_M","113,7630","64,6470","0"
+"P2","B2P-VH(LF)(SN)","TopLayer","JST-B2P-VH(LF)(SN)_V","117,3480","72,8230","270"
+"P1","B2P-VH(LF)(SN)","TopLayer","JST-B2P-VH(LF)(SN)_V","77,8510","72,6960","90"
+"D3","1N4148W-13-F","TopLayer","FP-SOD123-MFG","108,3310","83,4900","90"
+"D2","1N4148W-13-F","TopLayer","FP-SOD123-MFG","104,5210","83,4900","270"
+"D1","SSA34HE3_A/I","TopLayer","FP-95400-MFG","123,4440","72,7830","270"
+"C4","C0603C102F3GAC","TopLayer","FP-C0603C-CF-MFG","94,0150","78,3590","0"
+"C3","GCH188R71E104KE01J","TopLayer","FP-GCH188-0_1-e0_2_0_5-IPC_A","101,0920","74,6137","270"
+"C2","C0805C103J3HACTU","TopLayer","FP-C0805C-DN-MFG","107,6960","79,6290","0"
+"C1","ECA1HM101","TopLayer","CAPPR65-350-1150X800X1250","88,5190","72,7990","270"

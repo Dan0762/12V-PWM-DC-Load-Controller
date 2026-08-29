@@ -1,0 +1,16 @@
+Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1
+
+"","ECA1HM101","Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 50 V, -40 to 85 degC, 2-Pin THD, RoHS, Bulk","C1","1","Panasonic","ECA-1HM101","Volume Production"
+"","C0805C103J3HACTU","CAP CER 10000PF 25V X8R 0805","C2","1","Yageo Group","C0805C103J3HACTU","Volume Production"
+"","GCH188R71E104KE01J","Ceramic Capacitor 100nF ±10% 25V X7R 0603","C3","1","Deflecto","73504","Unknown"
+"","C0603C102F3GAC","C0603 1,000 pF C0G 30ppm/°C 1.00% 25 V","C4","1","Yageo Group","C0603C102F3GAC","Volume Production"
+"","SSA34HE3_A/I","DIODE SCHOTTKY 40V 3A DO214AC","D1","1","Vishay","SSA34HE3_A/I","Volume Production"
+"","1N4148W-13-F","DIODE GEN PURP 100V 150MA SOD123","D2, D3","2","Diodes Inc.","1N4148W-13-F","Volume Production"
+"","B2P-VH(LF)(SN)","Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm, -25 to 85 degC, RoHS, Bulk","P1, P2","2","JST","B2P-VH(LF)(SN)","Volume Production"
+"","IPD053N06N","N-Channel OptiMOS Power-Transistor, 60 V VDS, 45 A ID, -55 to 175 degC, PG-TO252-3-11, Reel, Green","Q1","1","Infineon","IPD053N06NATMA1","Volume Production"
+"","MCT0603PD1001DP500","RES SMD 100 OHM 1% 1/8W 0603","R1","1","Vishay","MCT0603PD1001DP500","Volume Production"
+"","RN73R2ATTD47R0C25","47O ±0.25% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thin Film","R2","1","KOA Speer","RN73R2ATTD47R0C25","Volume Production"
+"","SG73P2ATTD1003F","","R3","1","KOA Speer","SG73P2ATTD1003F","Volume Production"
+"","MCR03EZPFX2201","Thick Film Chip Resistor, 0603, 2.2kO, 1%, 100ppm/°C, 0.1W, 50V","R4, R5","2","ROHM","MCR03EZPFX2201","Volume Production"
+"","249FGJSPXB25503KA","249FGJSPXB25503KA Res Cermet POT 50K Ohm 20% 1W 1(Elec)/1(Mech)Turn 6.35mm Pin Panel Mount/Through Hole Bulk","R6","1","Vishay","249FGJSPXB25503KA","Volume Production"
+"","NE555DR","Precision Timer, 4.5 to 16 V, 0 to 70 degC, 8-Pin SOIC (D), Green (RoHS & no Sb/Br), Tape and Reel","U1","1","","",""
