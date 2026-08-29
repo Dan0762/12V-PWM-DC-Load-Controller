@@ -176,4 +176,19 @@ Final PCB Design Rule Check:
 The schematic was also checked using Altium schematic validation/ERC.
 
 
+## 12. Current Status
 
+Rev.A schematic and PCB design are complete.
+
+Manufacturing files have been generated.
+
+Physical PCB assembly and electrical validation are the next project stage.
+
+Planned validation includes:
+
+- PWM frequency measurement
+- duty-cycle range measurement
+- MOSFET switching waveform measurement
+- load testing
+- MOSFET and flyback diode temperature measurement
+- operation with resistive and inductive loads
