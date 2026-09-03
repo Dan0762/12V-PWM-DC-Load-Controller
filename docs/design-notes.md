@@ -180,15 +180,16 @@ The schematic was also checked using Altium schematic validation/ERC.
 
 Rev.A schematic and PCB design are complete.
 
-Manufacturing files have been generated.
+The PCB has been manufactured, assembled, and electrically tested.
 
-Physical PCB assembly and electrical validation are the next project stage.
+Validation was performed with:
+- no load
+- resistive load
+- inductive load (DC motor)
 
-Planned validation includes:
+PWM operation, load behavior, switching waveforms, and component heating were evaluated.
 
-- PWM frequency measurement
-- duty-cycle range measurement
-- MOSFET switching waveform measurement
-- load testing
-- MOSFET and flyback diode temperature measurement
-- operation with resistive and inductive loads
+Rev.A is electrically functional and meets the main project goals.
+
+Detailed measurement results and oscilloscope captures are available in
+[Validation and Test Results](validation.md).
