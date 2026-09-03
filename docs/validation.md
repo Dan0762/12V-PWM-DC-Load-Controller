@@ -62,28 +62,25 @@ normally from approximately 25% duty cycle and above.
 
 ## 5. Oscilloscope Measurements
 
-### 5.1 PWM waveform
+Oscilloscope measurements were performed under load to verify the MOSFET switching behavior and the response of the circuit with both resistive and inductive loads.
 
-PWM waveform at 50% duty:
+### 5.1 MOSFET Gate — Resistive Load
 
-![PWM waveform at 50% duty](images/validation/pwm-50.png)
+Gate waveform measured with a resistive load at approximately 50% duty cycle.
 
-Measured frequency: XX.XX kHz  
-Measured duty cycle: XX.X %
+![MOSFET gate waveform with resistive load at 50% duty](docs/gate_resistive_50pct.png)
 
-### 5.2 MOSFET gate waveform
+### 5.2 MOSFET Drain — Resistive Load
 
-![MOSFET gate waveform](images/validation/gate-50.png)
+Drain waveform measured with a resistive load at approximately 50% duty cycle.
 
-Gate drive amplitude: XX.X V  
-Frequency: XX.XX kHz
+![MOSFET drain waveform with resistive load at 50% duty](docs/drain_resistive_50pct.png)
 
-### 5.3 MOSFET drain waveform
+### 5.3 MOSFET Drain — DC Motor Load
 
-![MOSFET drain waveform](images/validation/drain-50.png)
+Drain waveform measured with a DC motor as the inductive load at approximately 50% duty cycle.
 
-The drain waveform was checked for switching behavior and excessive
-voltage spikes.
+![MOSFET drain waveform with DC motor at 50% duty](docs/drain_motor_50pct.png)
 
 ---
 
