@@ -62,27 +62,25 @@ normally from approximately 25% duty cycle and above.
 
 ## 5. Oscilloscope Measurements
 
-Oscilloscope measurements were performed under load to verify the MOSFET switching behavior and the response of the circuit with both resistive and inductive loads.
+Oscilloscope measurements were performed under load to verify the MOSFET switching behavior with both resistive and inductive loads.
 
 ### 5.1 MOSFET Gate — Resistive Load
 
 Gate waveform measured with a resistive load at approximately 50% duty cycle.
 
-![MOSFET gate waveform with resistive load at 50% duty](docs/gate_resistive_50pct.png)
+![MOSFET gate waveform with resistive load at 50% duty](gate_resistive_50pct.png)
 
 ### 5.2 MOSFET Drain — Resistive Load
 
 Drain waveform measured with a resistive load at approximately 50% duty cycle.
 
-![MOSFET drain waveform with resistive load at 50% duty](docs/drain_resistive_50pct.png)
+![MOSFET drain waveform with resistive load at 50% duty](drain_resistive_50pct.png)
 
 ### 5.3 MOSFET Drain — DC Motor Load
 
 Drain waveform measured with a DC motor as the inductive load at approximately 50% duty cycle.
 
-![MOSFET drain waveform with DC motor at 50% duty](docs/drain_motor_50pct.png)
-
----
+![MOSFET drain waveform with DC motor at 50% duty](drain_motor_50pct.png)
 
 ## 6. Thermal Observation
 
